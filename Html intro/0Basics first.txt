@@ -1,0 +1,21 @@
+##  HTML:
+Short for HyperText Markup Language, the authoring language used to create documents on 
+the World Wide Web.
+
+HTML defines the structure and layout of a Web document by using a variety of tags and 
+attributes. The correct structure for an HTML document starts with <HTML><HEAD>(enter here 
+what document is about)<BODY> and ends with </BODY></HTML>. All the information you'd like 
+to include in your Web page fits in between the <BODY> and </BODY> tags.
+
+
+
+
+##  HTML5:
+HTML5 is a W3C specification that defines the fifth major revision of the Hypertext 
+Markup Language (HTML).
+
+Other new features in HTML5 include specific functions for embedding graphics, audio, video, 
+and interactive documents.  New elements also allow you to define sections of your Web page 
+using new tags such as < article > which defines an article, < nav > which defines 
+navigation links, < source > which defines media resources, and many others. For example, 
+the navigation section of your page would be enclosed in the < nav > tags.

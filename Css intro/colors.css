@@ -1,0 +1,23 @@
+body {
+  background-color: lightyellow;
+}
+
+
+.color {
+  font-size: 40px;
+  text-align: center;
+}
+
+/* different ways to change the color property */
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: #ffffff;
+}
+
+h3 {
+  color: rgb(0, 204, 255);
+}
